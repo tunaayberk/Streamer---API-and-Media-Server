@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "Title Edited",
+      "description": "Description",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here is some stream",
+      "id": 2
+    },
+    {
+      "title": "Tuna's Stream",
+      "description": "Description of Tuna test",
+      "userId": "106261368329704014535",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "desc",
+      "userId": "106261368329704014535",
+      "id": 5
+    },
+    {
+      "title": "Create Stream Title",
+      "description": "Create Desctiption",
+      "userId": "106261368329704014535",
+      "id": 6
+    },
+    {
+      "title": "adadasda",
+      "description": "dasdasd",
+      "userId": "106261368329704014535",
+      "id": 7
+    },
+    {
+      "title": "fgdfg",
+      "description": "dfgdfg",
+      "userId": "106261368329704014535",
+      "id": 8
+    }
+  ]
+}
